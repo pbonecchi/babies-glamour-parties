@@ -1,0 +1,97 @@
+body {
+    background-image: url("backgroundballoon.jpg");
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+h1 {
+    color: #4D1682;
+    font-size: 31pt;
+    font-family: "Century Gothic", CenturyGothic , Geneva,AppleGothic , Sans-Serif;       
+    text-align: center;
+    
+    padding: 0px 0px 0px 0px;
+    margin: 15px auto 0px auto; 
+}
+
+img {
+
+
+
+}
+
+#baby {
+    position: absolute;
+    top: 106px;
+    left: 40px;
+    border: 7px solid black;
+
+}
+
+#princess {
+    position: absolute;
+    top: 106px;
+    right: 40px;
+
+    border-width: 10px;
+    border-style: solid;
+    border-color: purple;
+
+}
+#what-we-do {
+    position: absolute;
+    left: 40px;
+    top: 520px;
+    width: 650px;
+    height: 500px;
+    background: white;
+    border: 7px solid;
+    color: #001700;
+    padding-left: 40px;
+
+}
+
+h3 {
+    font-size: 21pt;
+    font-family: "Helvetica";
+    font-weight: normal;
+}
+
+li {
+    font-size: 18pt;
+    color: #001700;
+    margin: 0 0 22px 0;
+}
+
+#box-1 {
+    position: absolute;
+    top: 940px;
+    left: 40px;
+    border: 2px solid red;
+    color: green;
+}
+
+#box-2 {
+    border: 2px solid blue;
+    font-size: 30pt;
+}
+#box-3 {
+    border: 2px solid green;
+    color: white;
+}
+nav {
+    color: #3D1692;
+    font-size: 20pt;
+    font-family: "Helvetica";
+    
+    padding: 0px 0px 0px 0px;
+    margin: 0px auto 0px auto; 
+    text-align: center;
+
+}
+a {
+    color: black;
+}
+
+
+
